@@ -1,8 +1,8 @@
 # Leetcode Progress
-Until 2019-06-02 02:25:12, I have solved **1** / **1015** problems while **149** are still locked.
+Until 2019-06-02 13:42:08, I have solved **2** / **1019** problems while **153** are still locked.
 
 Completion statistic: 
-1. Python: 1
+1. Python: 2
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -35,7 +35,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|
-|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|
+|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|[Python](https://github.com/joyfeel/leetcode/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.py)|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|[Python](https://github.com/joyfeel/leetcode/blob/master/leetcode-algorithms/027.%20Remove%20Element/solution.py)|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|To Do|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|To Do|
@@ -155,7 +155,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) |Medium|To Do|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) |Medium|To Do|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |Hard|To Do|
-|146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) |Hard|To Do|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) |Medium|To Do|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) |Medium|To Do|
 |148|[Sort List](https://leetcode.com/problems/sort-list/description/) |Medium|To Do|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) |Hard|To Do|
@@ -492,7 +492,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/description/) |Easy|To Do|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/) |Medium|To Do|
 |510|[Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/description/) :lock:|Medium|To Do|
-|1059|[All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/description/) :lock:|Hard|To Do|
+|1059|[All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/description/) :lock:|Medium|To Do|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) |Medium|To Do|
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/description/) |Hard|To Do|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) |Medium|To Do|
@@ -984,15 +984,15 @@ Note: :lock: means you need to buy a book from LeetCode
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/) |Medium|To Do|
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/) |Medium|To Do|
 |1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/description/) |Medium|To Do|
-|1064|[Fixed Point](https://leetcode.com/problems/fixed-point/description/) |Easy|To Do|
-|1066|[Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/description/) |Medium|To Do|
-|1067|[Digit Count in Range](https://leetcode.com/problems/digit-count-in-range/description/) |Hard|To Do|
+|1064|[Fixed Point](https://leetcode.com/problems/fixed-point/description/) :lock:|Easy|To Do|
+|1066|[Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/description/) :lock:|Medium|To Do|
+|1067|[Digit Count in Range](https://leetcode.com/problems/digit-count-in-range/description/) :lock:|Hard|To Do|
 |1056|[Confusing Number](https://leetcode.com/problems/confusing-number/description/) :lock:|Easy|To Do|
 |1017|[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/description/) |Medium|To Do|
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) |Easy|To Do|
 |1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/) |Medium|To Do|
 |1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) |Medium|To Do|
-|1065|[Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/description/) |Easy|To Do|
+|1065|[Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/description/) :lock:|Easy|To Do|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) |Easy|To Do|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) |Easy|To Do|
 |1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/) |Medium|To Do|
@@ -1025,3 +1025,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/) |Medium|To Do|
 |1053|[Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/description/) |Medium|To Do|
 |1054|[Distant Barcodes](https://leetcode.com/problems/distant-barcodes/description/) |Medium|To Do|
+|1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/) |Hard|To Do|
+|1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) |Easy|To Do|
+|1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/) |Medium|To Do|
+|1073|[Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/description/) |Medium|To Do|
