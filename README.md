@@ -1,8 +1,8 @@
 # Leetcode Progress
-Until 2019-06-02 13:42:08, I have solved **2** / **1019** problems while **153** are still locked.
+Until 2019-06-04 01:09:11, I have solved **3** / **1019** problems while **153** are still locked.
 
 Completion statistic: 
-1. Python: 2
+1. Python: 3
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -188,7 +188,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) :lock:|Medium|To Do|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) |Medium|To Do|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|To Do|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|To Do|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|[Python](https://github.com/joyfeel/leetcode/blob/master/leetcode-algorithms/189.%20Rotate%20Array/solution.py)|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |Easy|To Do|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|To Do|
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|To Do|
