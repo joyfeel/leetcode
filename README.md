@@ -1,8 +1,8 @@
 # Leetcode Progress
-Until 2019-06-04 01:09:11, I have solved **3** / **1019** problems while **153** are still locked.
+Until 2019-06-04 21:22:57, I have solved **4** / **1019** problems while **153** are still locked.
 
 Completion statistic: 
-1. Python: 3
+1. Python: 4
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -210,7 +210,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/) |Hard|To Do|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |Medium|To Do|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |Medium|To Do|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |Easy|To Do|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |Easy|[Python](https://github.com/joyfeel/leetcode/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate/solution.py)|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) |Hard|To Do|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |Easy|To Do|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) |Medium|To Do|
