@@ -1,8 +1,8 @@
 # Leetcode Progress
-Until 2019-06-04 21:22:57, I have solved **4** / **1019** problems while **153** are still locked.
+Until 2019-06-04 22:12:27, I have solved **5** / **1019** problems while **153** are still locked.
 
 Completion statistic: 
-1. Python: 4
+1. Python: 5
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -44,7 +44,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|To Do|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|To Do|
-|035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|
+|035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|[Python](https://github.com/joyfeel/leetcode/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/solution.py)|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|
