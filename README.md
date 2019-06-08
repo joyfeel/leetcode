@@ -1,8 +1,8 @@
 # Leetcode Progress
-Until 2019-06-08 10:53:22, I have solved **9** / **1019** problems while **153** are still locked.
+Until 2019-06-08 17:49:47, I have solved **10** / **1019** problems while **153** are still locked.
 
 Completion statistic: 
-1. Python: 9
+1. Python: 10
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -75,7 +75,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|To Do|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|
 |065|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard|To Do|
-|066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|To Do|
+|066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|[Python](https://github.com/joyfeel/leetcode/blob/master/leetcode-algorithms/066.%20Plus%20One/solution.py)|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|[Python](https://github.com/joyfeel/leetcode/blob/master/leetcode-algorithms/067.%20Add%20Binary/solution.py)|
 |068|[Text Justification](https://leetcode.com/problems/text-justification/description/) |Hard|To Do|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|To Do|
