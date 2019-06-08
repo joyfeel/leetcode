@@ -1,8 +1,8 @@
 # Leetcode Progress
-Until 2019-06-08 19:54:22, I have solved **16** / **1019** problems while **153** are still locked.
+Until 2019-06-08 20:04:51, I have solved **17** / **1019** problems while **153** are still locked.
 
 Completion statistic: 
-1. Python: 16
+1. Python: 17
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -428,7 +428,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |439|[Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/description/) :lock:|Medium|To Do|
 |440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/) |Hard|To Do|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) |Easy|To Do|
-|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) |Medium|To Do|
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) |Medium|[Python](https://github.com/joyfeel/leetcode/blob/master/leetcode-algorithms/442.%20Find%20All%20Duplicates%20in%20an%20Array/solution.py)|
 |443|[String Compression](https://leetcode.com/problems/string-compression/description/) |Easy|To Do|
 |444|[Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/description/) :lock:|Medium|To Do|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) |Medium|To Do|
