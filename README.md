@@ -1,8 +1,8 @@
 # Leetcode Progress
-Until 2019-06-08 17:49:47, I have solved **10** / **1019** problems while **153** are still locked.
+Until 2019-06-08 18:22:32, I have solved **11** / **1019** problems while **153** are still locked.
 
 Completion statistic: 
-1. Python: 10
+1. Python: 11
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -404,7 +404,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) |Easy|To Do|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) |Hard|To Do|
 |411|[Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/description/) :lock:|Hard|To Do|
-|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|To Do|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|[Python](https://github.com/joyfeel/leetcode/blob/master/leetcode-algorithms/412.%20Fizz%20Buzz/solution.py)|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) |Medium|To Do|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) |Easy|To Do|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/description/) |Easy|To Do|
