@@ -1,8 +1,8 @@
 # Leetcode Progress
-Until 2019-06-08 10:45:58, I have solved **8** / **1019** problems while **153** are still locked.
+Until 2019-06-08 10:53:22, I have solved **9** / **1019** problems while **153** are still locked.
 
 Completion statistic: 
-1. Python: 8
+1. Python: 9
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -76,7 +76,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|
 |065|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard|To Do|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|To Do|
-|067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|To Do|
+|067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|[Python](https://github.com/joyfeel/leetcode/blob/master/leetcode-algorithms/067.%20Add%20Binary/solution.py)|
 |068|[Text Justification](https://leetcode.com/problems/text-justification/description/) |Hard|To Do|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|To Do|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|To Do|
