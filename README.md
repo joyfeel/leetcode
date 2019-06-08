@@ -1,8 +1,8 @@
 # Leetcode Progress
-Until 2019-06-08 18:28:00, I have solved **12** / **1019** problems while **153** are still locked.
+Until 2019-06-08 18:46:41, I have solved **13** / **1019** problems while **153** are still locked.
 
 Completion statistic: 
-1. Python: 12
+1. Python: 13
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -224,7 +224,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) |Medium|To Do|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) |Medium|To Do|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) |Medium|To Do|
-|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|To Do|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|[Python](https://github.com/joyfeel/leetcode/blob/master/leetcode-algorithms/231.%20Power%20of%20Two/solution.py)|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |Easy|To Do|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/) |Hard|To Do|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |Easy|To Do|
