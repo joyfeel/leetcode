@@ -1,8 +1,8 @@
 # Leetcode Progress
-Until 2019-06-05 22:52:40, I have solved **6** / **1019** problems while **153** are still locked.
+Until 2019-06-08 10:41:33, I have solved **7** / **1019** problems while **153** are still locked.
 
 Completion statistic: 
-1. Python: 6
+1. Python: 7
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -535,7 +535,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/description/) |Medium|To Do|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) |Easy|To Do|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) |Medium|To Do|
-|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) |Easy|To Do|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) |Easy|[Python](https://github.com/joyfeel/leetcode/blob/master/leetcode-algorithms/561.%20Array%20Partition%20I/solution.py)|
 |562|[Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/description/) :lock:|Medium|To Do|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/) |Easy|To Do|
 |564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/) |Hard|To Do|
