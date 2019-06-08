@@ -1,8 +1,8 @@
 # Leetcode Progress
-Until 2019-06-08 10:41:33, I have solved **7** / **1019** problems while **153** are still locked.
+Until 2019-06-08 10:45:58, I have solved **8** / **1019** problems while **153** are still locked.
 
 Completion statistic: 
-1. Python: 7
+1. Python: 8
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -672,7 +672,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) |Medium|To Do|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) |Medium|To Do|
 |741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) |Hard|To Do|
-|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) |Easy|To Do|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) |Easy|[Python](https://github.com/joyfeel/leetcode/blob/master/leetcode-algorithms/709.%20To%20Lower%20Case/solution.py)|
 |742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/) :lock:|Medium|To Do|
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) |Medium|To Do|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) |Easy|To Do|
