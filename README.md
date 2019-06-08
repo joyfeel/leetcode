@@ -1,8 +1,8 @@
 # Leetcode Progress
-Until 2019-06-08 19:35:59, I have solved **15** / **1019** problems while **153** are still locked.
+Until 2019-06-08 19:54:22, I have solved **16** / **1019** problems while **153** are still locked.
 
 Completion statistic: 
-1. Python: 15
+1. Python: 16
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -89,7 +89,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |077|[Combinations](https://leetcode.com/problems/combinations/description/) |Medium|To Do|
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|To Do|
 |079|[Word Search](https://leetcode.com/problems/word-search/description/) |Medium|To Do|
-|080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|
+|080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|[Python](https://github.com/joyfeel/leetcode/blob/master/leetcode-algorithms/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/solution.py)|
 |081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) |Medium|To Do|
 |082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) |Medium|To Do|
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |Easy|To Do|
