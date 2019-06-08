@@ -1,8 +1,8 @@
 # Leetcode Progress
-Until 2019-06-08 18:46:41, I have solved **13** / **1019** problems while **153** are still locked.
+Until 2019-06-08 19:20:48, I have solved **14** / **1019** problems while **153** are still locked.
 
 Completion statistic: 
-1. Python: 13
+1. Python: 14
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -97,7 +97,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) |Hard|To Do|
 |086|[Partition List](https://leetcode.com/problems/partition-list/description/) |Medium|To Do|
 |087|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |Hard|To Do|
-|088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy|To Do|
+|088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy|[Python](https://github.com/joyfeel/leetcode/blob/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/solution.py)|
 |089|[Gray Code](https://leetcode.com/problems/gray-code/description/) |Medium|To Do|
 |090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) |Medium|To Do|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) |Medium|To Do|
